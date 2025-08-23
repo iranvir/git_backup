@@ -1,0 +1,4 @@
+config.json
+backups/
+nandr_backups/
+.venv/
